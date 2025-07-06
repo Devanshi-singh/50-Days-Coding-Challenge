@@ -3,7 +3,7 @@
 Welcome to my **50 Days of Coding Challenge**! 🚀  
 This repository documents my journey to improve my coding skills, deepen problem-solving abilities, and stay consistent in practice over 50 consecutive days.
 
----
+--- 
 
 # Challenge Overview
 
